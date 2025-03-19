@@ -1,4 +1,3 @@
-import assets from "@/assets";
 import Container from "@/components/ui/container";
 import { Clock, Mail, MapPin, PhoneCall } from "lucide-react";
 import Image from "next/image";
@@ -34,22 +33,22 @@ const footerData = [
 const socialMedia = [
   {
     id: 1,
-    icon: assets.icons.fb,
+    icon: "icon",
     link: "https://www.facebook.com/",
   },
   {
     id: 2,
-    icon: assets.icons.tw,
+    icon: "icon",
     link: "https://twitter.com/",
   },
   {
     id: 3,
-    icon: assets.icons.instagram,
+    icon: "icon",
     link: "https://www.instagram.com/",
   },
   {
     id: 4,
-    icon: assets.icons.ln,
+    icon: "icon",
     link: "https://www.linkedin.com/",
   },
 ];

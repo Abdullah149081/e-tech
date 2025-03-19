@@ -6,19 +6,19 @@ const aboutCardsContent = [
     id: 1,
     title: "fast delivery",
     description: "Within 30 minutes",
-    icon: assets.svgs.bag,
+    icon: assets.svgs.logo,
   },
   {
     id: 2,
     title: "absolute dining",
     description: "Best buffet restaurant",
-    icon: assets.svgs.medal,
+    icon: assets.svgs.logo,
   },
   {
     id: 3,
     title: "pickup delivery",
     description: "Grab your food order",
-    icon: assets.svgs.packageIcon,
+    icon: assets.svgs.logo,
   },
 ];
 

@@ -1,6 +1,5 @@
 "use client";
 
-import assets from "@/assets";
 import { Button } from "@/components/ui/button";
 import Container from "@/components/ui/container";
 import Image from "next/image";
@@ -91,7 +90,7 @@ const About = () => {
                 </div>
                 <div className="flex items-center justify-center gap-2 py-4 lg:pr-6">
                   <Image
-                    src={assets.svgs.callAlt}
+                    src="https://placehold.it/24x24"
                     alt="callAlt"
                     width={24}
                     height={24}
@@ -109,7 +108,7 @@ const About = () => {
 
       <MediaQuery minWidth={1024}>
         <div className="absolute -bottom-10 right-0">
-          <Image src={assets.images.bowlWhiteImg} alt="bowlWhiteImg" />
+          <Image src="https://placehold.it/24x24" alt="bowlWhiteImg" />
         </div>
       </MediaQuery>
     </div>

@@ -1,4 +1,3 @@
-import assets from "@/assets";
 import Image from "next/image";
 
 const AboutBanner = () => {
@@ -9,7 +8,7 @@ const AboutBanner = () => {
           <div className="relative flex size-[50.39px] items-center justify-center rounded-full bg-[#f1f1f1] lg:size-[94.21px]">
             <div className="absolute inset-0">
               <div className="relative">
-                <Image src={assets.svgs.circleYellow} alt="circleYellow" />
+                <Image src="https://placehold.it/24x24" alt="circleYellow" />
                 <div className="absolute left-[5px] top-1 size-[8.76px] rounded-full border-2 border-[#febf00] bg-white lg:top-2.5 lg:h-[16.38px] lg:w-[16.38px] lg:border-4" />
               </div>
             </div>
