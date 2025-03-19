@@ -1,4 +1,4 @@
-This is a [e-tech](https://restaurant-project-ashy-psi.vercel.app/) project create with [Next.js](https://nextjs.org/).
+This is a [e-tech](https://e-tech-one.vercel.app/) project create with [Next.js](https://nextjs.org/).
 
 ## Getting Started
 
