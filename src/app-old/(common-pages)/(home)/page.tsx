@@ -1,4 +1,4 @@
-import Banner from "@/components/shared/Header/Banner";
+
 
 import About from "./about/About";
 import BookTable from "./book/BookTable";
@@ -9,7 +9,7 @@ const HomePage = () => {
   return (
     <>
       <div className="relative pt-8 lg:pt-0">
-        <Banner />
+        {/* <Banner /> */}
       </div>
       <About />
       <PopularFood />

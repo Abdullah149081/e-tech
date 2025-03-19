@@ -1,7 +1,6 @@
 "use client";
 
 import assets from "@/assets";
-
 import Container from "@/components/ui/container";
 import Image from "next/image";
 import MediaQuery from "react-responsive";
