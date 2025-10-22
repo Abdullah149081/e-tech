@@ -1,7 +1,8 @@
 /* eslint-disable react/no-unescaped-entities */
 
-import assets from "@/assets";
 import Image from "next/image";
+import assets from "@/assets";
+import Test from "./test";
 
 const CustomersCard = () => {
   return (

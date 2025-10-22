@@ -1,7 +1,9 @@
-/* eslint-disable react/no-array-index-key */
-
 "use client";
 
+import AutoScroll from "embla-carousel-auto-scroll";
+import Autoplay from "embla-carousel-autoplay";
+import Image from "next/image";
+import MediaQuery from "react-responsive";
 import {
   Carousel,
   CarouselContent,
@@ -11,11 +13,6 @@ import {
 } from "@/components/ui/carousel";
 import Container from "@/components/ui/container";
 import TitleSubTitle from "@/components/ui/titleSubTitle";
-
-import AutoScroll from "embla-carousel-auto-scroll";
-import Autoplay from "embla-carousel-autoplay";
-import Image from "next/image";
-import MediaQuery from "react-responsive";
 import CustomersCard from "./CustomersCard";
 
 const Customers = () => {

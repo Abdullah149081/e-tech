@@ -75,8 +75,8 @@ const PopularFood = () => {
               </CarouselItem>
             ))}
           </CarouselContent>
-          <CarouselPrevious className="size-10 hover:bg-white hover:text-res-primary lg:size-[60px]" />
-          <CarouselNext className="size-10 hover:bg-white hover:text-res-primary lg:size-[60px]" />
+          <CarouselPrevious className="hover:text-res-primary size-10 hover:bg-white lg:size-[60px]" />
+          <CarouselNext className="hover:text-res-primary size-10 hover:bg-white lg:size-[60px]" />
         </Carousel>
       </Container>
       <MediaQuery minWidth={1600}>

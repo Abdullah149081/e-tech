@@ -48,5 +48,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## **View Live Site**  
 
-[Visit the Live Site](https://restaurant-project-ashy-psi.vercel.app/)  
+[Visit the Live Site](https://e-tech-one.vercel.app/)  
 # e-tech
